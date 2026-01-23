@@ -1,0 +1,1 @@
+run_id,trial_id,timestamp_start,timestamp_end,condition,distance_label_m,n_frames,depth_med_mean,depth_med_std,depth_valid_mean,ir_mean_mean,ir_mean_std,ir_std_mean,conf_mean_mean,match_mean,notes
