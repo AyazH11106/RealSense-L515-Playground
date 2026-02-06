@@ -1,1 +1,0 @@
-run_id,trial_id,timestamp,condition,distance_label_m,depth_med_m,depth_valid_pct,ir_mean,ir_std,conf_mean,match_score,expected_depth_m,roi_cx,roi_cy,roi_r,note
